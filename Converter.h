@@ -10,6 +10,8 @@
 //                                                                            //
 //   {deg, GeV}                                                               //
 //                                                                            //
+//   Note! This class requires ROOT (https://root.cern.ch/) package.          //
+//                                                                            //
 //                                   - Hoyong Jeong (hyjeong@hep.korea.ac.kr) //
 ////////////////////////////////////////////////////////////////////////////////
 class Converter
